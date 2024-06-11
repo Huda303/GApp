@@ -8,8 +8,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-       Console.WriteLine(Exercises.StepCounter());
-    }
+Console.WriteLine("[{0}]", string.Join(", ", Exe9.copyArray([1,2,3])));    }
   }
  
 }

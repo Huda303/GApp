@@ -9,6 +9,4 @@ class Exercises{
     return MaxNumberOfSteps;
     //If you double the size of the steps it's gonna increase the result by 1 2^7 = 128 & 2^8 = 256
   }
-
-
 }

@@ -12,3 +12,4 @@ C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\refint\GApp.dll
 C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.pdb
 C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.genruntimeconfig.cache
 C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\ref\GApp.dll
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.sourcelink.json
