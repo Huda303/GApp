@@ -1,0 +1,14 @@
+C:\Users\wedoa\Desktop\GApp\bin\Debug\net8.0\GApp.exe
+C:\Users\wedoa\Desktop\GApp\bin\Debug\net8.0\GApp.deps.json
+C:\Users\wedoa\Desktop\GApp\bin\Debug\net8.0\GApp.runtimeconfig.json
+C:\Users\wedoa\Desktop\GApp\bin\Debug\net8.0\GApp.dll
+C:\Users\wedoa\Desktop\GApp\bin\Debug\net8.0\GApp.pdb
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.AssemblyInfoInputs.cache
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.AssemblyInfo.cs
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.csproj.CoreCompileInputs.cache
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.dll
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\refint\GApp.dll
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.pdb
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\GApp.genruntimeconfig.cache
+C:\Users\wedoa\Desktop\GApp\obj\Debug\net8.0\ref\GApp.dll
