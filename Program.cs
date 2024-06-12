@@ -8,7 +8,9 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-Console.WriteLine("[{0}]", string.Join(", ", Exe9.copyArray([1,2,3])));    }
+      //Console.WriteLine("[{0}]", string.Join(", ", Exe9.copyArray([1,2,3])));  
+      Task3.LinkedList();
+    }
   }
  
 }

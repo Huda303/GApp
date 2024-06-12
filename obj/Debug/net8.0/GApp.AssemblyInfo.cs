@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da1b0f336d9262f9be32d3e4e36959e6d141e35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d211c813e5aed0ab0eabb2a672ffd9de22864e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

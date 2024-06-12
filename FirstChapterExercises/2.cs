@@ -1,7 +1,7 @@
 class Exercises2{
 public static int power(int a, int b) {
     // O(n) where n is b
-    // في اسوأ الحالات نأخذ طول b وهي الحالة الوحيدة
+    //b في اسوأ الحالات نأخذ طول وهي الحالة الوحيدة
     if (b < 0) return a;
     if (b == 0) return 1;
     int sum = a;
