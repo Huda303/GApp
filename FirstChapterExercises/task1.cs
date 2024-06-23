@@ -6,7 +6,7 @@ class Exercises1{
     for (int I = 0; I < b; I++) {
         sum += a;
     }
-     return sum ;
+     return sum;
   }
  
   }
