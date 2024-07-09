@@ -27,7 +27,27 @@ namespace HelloWorld
              //p.Push(30); 
              //p.Display(); 
              //p.Pop(); 
-             
+
+             //quick sort algorithm
+              //  int[] arr = [3, 6, 8, 10, 1, 2, 1];
+              //  QuickSortAlgorithm.QuickSort(arr,0,arr.Length-1);     
+              //  for (int i = 0; i < arr.Length; i++)
+              //    {
+              //      Console.Write(arr[i] + " ");
+              //    }
+
+
+              //merge sort algorithm
+              // Define an array of integers to be sorted
+        int[] array = { 34, 7, 23, 32, 5, 62 };
+        Console.WriteLine("Original array: " + string.Join(" ", array));
+
+        // Call MergeSort on the entire array
+        MergeAlgorithm.MergeSort(array, 0, array.Length - 1);
+
+        // Print the sorted array
+        Console.WriteLine("Sorted array: " + string.Join(" ", array));
+
   }
  
 }
