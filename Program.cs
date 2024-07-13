@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using ChapterFive;
 
 //using Grokking_Algorithm.Chapter_2;
 
@@ -39,14 +40,21 @@ namespace HelloWorld
 
               //merge sort algorithm
               // Define an array of integers to be sorted
-        int[] array = { 34, 7, 23, 32, 5, 62 };
-        Console.WriteLine("Original array: " + string.Join(" ", array));
+        //int[] array = { 34, 7, 23, 32, 5, 62 };
+        //Console.WriteLine("Original array: " + string.Join(" ", array));
 
         // Call MergeSort on the entire array
-        MergeAlgorithm.MergeSort(array, 0, array.Length - 1);
+        //MergeAlgorithm.MergeSort(array, 0, array.Length - 1);
 
         // Print the sorted array
-        Console.WriteLine("Sorted array: " + string.Join(" ", array));
+       //Console.WriteLine("Sorted array: " + string.Join(" ", array));
+      
+
+
+        HashCountry HM = new HashCountry();
+            HM.Set("Iraq", 35.525, 24.242);
+            HM.Set("iran", 5.5, 4.22);
+            Console.WriteLine(HM.Get("iran").lang);
 
   }
  
